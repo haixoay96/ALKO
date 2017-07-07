@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "815962169455",
+    "firebase_url": "https://alko-f7eb3.firebaseio.com",
+    "project_id": "alko-f7eb3",
+    "storage_bucket": "alko-f7eb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815962169455:android:5c905664e9e1798c",
+        "android_client_info": {
+          "package_name": "com.tzusman.alko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815962169455-2solrujbdfo8e6h25hq5ad562u60d0g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK_OZfqPYFJCwvQT2bjN5PtJow-wrMAe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

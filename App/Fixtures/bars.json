@@ -1,0 +1,220 @@
+{
+  "1": {
+    "name": "Mountain Sun",
+    "address": {
+      "address": "1535 Pearl St",
+      "state": "CA",
+      "city": "San Francisco",
+      "country": "US",
+      "postal_code": "80302",
+      "latitude": 37.785484,
+      "longitude": -122.408709
+    }
+  },
+  "2": {
+    "name": "Bohemian Biergarten",
+    "address": {
+      "address": "1536 Pearl St",
+      "state": "CA",
+      "city": "San Francisco",
+      "country": "US",
+      "postal_code": "80302",
+      "latitude": 37.789782,
+      "longitude": -122.407192
+    },
+    "special": {
+      "days": {
+        "monday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "tuesday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "wednesday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "thursday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "friday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "saturday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "sunday": {
+          "from": "18:00",
+          "to": "02:00"
+        }
+      },
+      "active": {
+        "from": "2017-03-25",
+        "to": "2017-04-25"
+      }
+    },
+    "drinkup": {
+      "users": {
+        "-KfyNG0iztMshmMC4Frc": {
+          "first_name": "Abby",
+          "avatar": "http://i.imgur.com/JBUFpCJ.png",
+          "icon": "martini",
+          "joined_at": "2017-03-24T04:18:33+00:00",
+          "arrived_at": "2017-03-24T04:18:33+00:00",
+          "departed_at": null
+        },
+        "-KfyNG0iztMshmMC4Frd": {
+          "name": "Danny",
+          "icon": "beer",
+          "avatar": "http://i.imgur.com/wx0NYZC.png",
+          "joined_at": "2017-03-24T04:18:34+00:00",
+          "arrived_at": "2017-03-24T04:18:38+00:00",
+          "departed_at": null
+        },
+        "-KfyNG0iztMshmMC4Fre": {
+          "name": "Joshua",
+          "avatar": "http://i.imgur.com/z7XXxBd.png",
+          "icon": "highball",
+          "joined_at": "2017-03-24T04:18:35+00:00",
+          "arrived_at": "2017-03-24T04:18:39+00:00",
+          "departed_at": null
+        },
+        "-KfyNG0jnZjvNCXuj91S": {
+          "name": "Jamie",
+          "avatar": "http://i.imgur.com/w21XGh8.png",
+          "icon": "margarita",
+          "joined_at": "2017-03-24T04:18:36+00:00",
+          "arrived_at": "2017-03-24T04:18:40+00:00",
+          "departed_at": null
+        },
+        "-KfyNG0jnZjvNCXuj91T": {
+          "name": "Kyle",
+          "avatar": "http://i.imgur.com/bR5iLG8.png",
+          "icon": "tumbler",
+          "joined_at": "2017-03-24T04:18:37+00:00",
+          "arrived_at": "2017-03-24T04:18:41+00:00",
+          "departed_at": null
+        }
+      },
+      "active": true
+    }
+  },
+  "3": {
+    "name": "Bitter Bar",
+    "address": {
+      "address": "1537 Pearl St",
+      "state": "CA",
+      "city": "San Francisco",
+      "country": "US",
+      "postal_code": "80302",
+      "latitude": 37.788038,
+      "longitude": -122.404612
+    }
+  },
+  "4": {
+    "name": "Kitchen Next Door",
+    "address": {
+      "address": "1538 Pearl St",
+      "state": "CA",
+      "city": "San Francisco",
+      "country": "US",
+      "postal_code": "80302",
+      "latitude": 37.782860,
+      "longitude": -122.409341
+    },
+    "special": {
+      "days": {
+        "monday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "tuesday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "wednesday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "thursday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "friday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "saturday": {
+          "from": "18:00",
+          "to": "02:00"
+        },
+        "sunday": {
+          "from": "18:00",
+          "to": "02:00"
+        }
+      },
+      "active": {
+        "from": "2017-03-25",
+        "to": "2017-04-25"
+      }
+    }
+  },
+  "5": {
+    "name": "Licence No 1",
+    "address": {
+      "address": "1539 Pearl St",
+      "state": "CA",
+      "city": "San Francisco",
+      "country": "US",
+      "postal_code": "80302",
+      "latitude": 37.783211,
+      "longitude": -122.402859
+    },
+    "drinkup": {
+      "users": {
+        "-KfyNG0jnZjvNCXuj91W": {
+          "first_name": "Larissa",
+          "avatar": "http://i.imgur.com/JBUFpCJ.png",
+          "icon": "margarita",
+          "joined_at": "2017-03-24T04:18:33+00:00",
+          "arrived_at": "2017-03-24T04:18:33+00:00",
+          "departed_at": null
+        },
+        "-KfyNG0jnZjvNCXuj91X": {
+          "name": "Damian",
+          "icon": "tumbler",
+          "avatar": "http://i.imgur.com/bR5iLG8.png",
+          "joined_at": "2017-03-24T04:18:34+00:00",
+          "arrived_at": "2017-03-24T04:18:38+00:00",
+          "departed_at": null
+        },
+        "-KfyNG0jnZjvNCXuj91Y": {
+          "name": "Greg",
+          "avatar": "http://i.imgur.com/z7XXxBd.png",
+          "icon": "tumbler",
+          "joined_at": "2017-03-24T04:18:35+00:00",
+          "arrived_at": "2017-03-24T04:18:39+00:00",
+          "departed_at": null
+        }
+      },
+      "active": true
+    }
+  },
+  "6": {
+    "name": "Jill's at the St Julian",
+    "address": {
+      "address": "1540 Pearl St",
+      "state": "CA",
+      "city": "San Francisco",
+      "country": "US",
+      "postal_code": "80302",
+      "latitude": 37.781183,
+      "longitude": -122.406475
+    }
+  }
+}
